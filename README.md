@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Johannes Qvarford!
-- 👀 I’m interested in backend programming and architecture.
-- 🌱 I’m currently learning Racket in my spare time.
+- 👀 I’m interested in architecture.
+- 🌱 I’m currently learning Rust in my spare time.
 - 📫 Send me an email at jq.email+github@pm.me if you want to reach me.
 
 <!---
